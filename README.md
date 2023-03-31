@@ -1,17 +1,17 @@
-# workshop-Multivariate-analysis
+### workshop-Multivariate-analysis
 
-## Aim:
+# Aim:
 
 To Perform Bivariate/Multivariate Analysis
 
-## Algorithm:
+# Algorithm:
 
     1.Read the given data 
     2.Get information from the data 
     3.Perform the Bivariate/Multivariate Analysis
     4.Save the clean data to File
 
-## Program:
+# Program:
 
 NAME : HEMASONICA.P
 
@@ -116,7 +116,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/118361409/229037200-fd883c96-cb84-4420-9c97-99b41a5a1e72.png)
 
 
-## Result :
+# Result :
 
 Thus we applied Bivariate/Multivariate Analysis Successfully
 
