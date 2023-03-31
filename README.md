@@ -11,7 +11,7 @@ To Perform Bivariate/Multivariate Analysis
     3.Perform the Bivariate/Multivariate Analysis
     4.Save the clean data to File
 
-## program:
+## Program:
 
 NAME : HEMASONICA.P
 
